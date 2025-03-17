@@ -29,6 +29,9 @@ Before diving into MERN, ensure you have a strong foundation in:
 - ✅ **Version Control (Git & GitHub)** → Pushing, Pulling, Branching, Merging ( Use git from first project only, you will use it a lot and that is free practice )
 - ✅ **Basic Terminal & CLI Commands** ( Always try to run your code from terminal, It really teaches you a lot about how things work )
 *Note: Your first week is going to be hetic as many things can overwhelm your motivation, please fight through it.*
+### Potential Resources
+- https://youtube.com/@webdevsimplified?si=z1KUZBzS39W6N_kQ  ( The best channel to know things fast in javascript )
+- https://www.sololearn.com ( Learn *HTML* and *CSS* from here and potentially *Javascript* )
 ---
 
 ## **2️⃣ Frontend Development with React (4-6 Weeks)**
@@ -40,6 +43,9 @@ Before diving into MERN, ensure you have a strong foundation in:
 - **State Management** (Redux Toolkit / Zustand for advanced apps or just use Context in react)
 - **API Calls with Axios / Fetch** (RESTful APIs integration)
 - **Deploying React Apps** (Netlify, Vercel)
+### Potential Resources
+- https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&si=L_9ZN9vscZtbscZA ( The best one to quickly get started but always research each point in google for better understanding )
+- Use ChatGPT and Google very well.
 
 ### 🎯 **Mini Projects:**
 - ✅ **Todo App** (State Management Practice)
@@ -56,6 +62,9 @@ Before diving into MERN, ensure you have a strong foundation in:
 - **Authentication & Authorization** (JWT, OAuth, bcrypt)
 - **Environment Variables & Security** (dotenv, helmet, CORS)
 
+### Potential Resources
+- https://youtu.be/_7UQPve99r4?si=sj6CgBuT82UpbHSm ( The best video tutorial I could find, I always used ChatGPT and Google and I encourage you to do the same. )
+- https://www.freecodecamp.org/learn/back-end-development-and-apis/ ( Learn from documentations and hands on project )
 ### 🎯 **Mini Projects:**
 - ✅ **Simple User Authentication API** (JWT)
 - ✅ **Notes App Backend** (CRUD API)
